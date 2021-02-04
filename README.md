@@ -4,9 +4,9 @@ This notebook uses the [diabetes dataset](https://scikit-learn.org/stable/module
 
 The focus of this notebook is to show how effective regularization techniques (such as dropout, weight decay, and early stopping) can be. 
 
-![Alt text](images/plain_model.png)
+![Alt text](images/plain_model1.png)
 
-![Alt text](images/reg_model.png)
+![Alt text](images/reg_model1.png)
 
 
 This uses TensorFlow 2 to build models.
